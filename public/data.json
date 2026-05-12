@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://i.ibb.co.com/xtLbsWgD/pexels-justyzvidz-11882776.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Beach Flip Flops",
+    "brand": "WaveWalk",
+    "price": 12,
+    "rating": 4.5,
+    "stock": 20,
+    "description": "Comfortable and lightweight flip flops for beach adventures.",
+    "image": "https://i.ibb.co.com/zzDdJ67/pexels-karola-g-4996974.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 3,
+    "name": "Summer Cotton T-Shirt",
+    "brand": "CoolWear",
+    "price": 18,
+    "rating": 4.6,
+    "stock": 15,
+    "description": "Breathable cotton t-shirt designed for hot summer days.",
+    "image": "https://i.ibb.co.com/TxTcBZcf/pexels-dayong-tien-681073045-18186105.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "Aloe Vera Sunscreen SPF 50",
+    "brand": "SkinGlow",
+    "price": 22,
+    "rating": 4.8,
+    "stock": 8,
+    "description": "High protection sunscreen with aloe vera for sensitive skin.",
+    "image": "https://i.ibb.co.com/7NYyKFs6/pexels-sunny-skin-69421600-9496431.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Insulated Water Bottle",
+    "brand": "HydroMax",
+    "price": 25,
+    "rating": 4.9,
+    "stock": 12,
+    "description": "Keeps your drinks cold for up to 12 hours during summer trips.",
+    "image": "https://i.ibb.co.com/XrtRxMLH/pexels-dimkidama-14022313.jpg",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 6,
+    "name": "Straw Beach Hat",
+    "brand": "SunnyStyle",
+    "price": 14,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Elegant straw hat that provides shade and style under the sun.",
+    "image": "https://i.ibb.co.com/LdC7PpLZ/pexels-kindelmedia-8093162.jpg",
+    "category": "Accessories"
+  }
+]
