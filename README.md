@@ -8,5 +8,5 @@ Live URL:https://suncart-summer-essentials-store.onrender.com/
 
 Key Features:
 Login/Register
-
-
+Google Auth
+Protected Product Details Route
