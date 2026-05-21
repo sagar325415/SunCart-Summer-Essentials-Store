@@ -10,3 +10,7 @@ Key Features:
 Login/Register
 Google Auth
 Protected Product Details Route
+User Profile & Update Information Feature
+Fully Responsive Design for Mobile, Tablet & Desktop
+Modern Summer-Themed UI with Smooth Animations
+
